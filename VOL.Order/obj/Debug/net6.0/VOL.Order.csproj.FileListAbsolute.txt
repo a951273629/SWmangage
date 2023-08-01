@@ -1,0 +1,17 @@
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Order.deps.json
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Order.dll
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Order.pdb
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Core.dll
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Entity.dll
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Core.pdb
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\bin\Debug\net6.0\VOL.Entity.pdb
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.csproj.AssemblyReference.cache
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.GeneratedMSBuildEditorConfig.editorconfig
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.AssemblyInfoInputs.cache
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.AssemblyInfo.cs
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.csproj.CoreCompileInputs.cache
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.csproj.CopyComplete
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.dll
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\refint\VOL.Order.dll
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\VOL.Order.pdb
+E:\vol_vueAnd.Net\Vue.NetCore\.Net6版本\VOL.Order\obj\Debug\net6.0\ref\VOL.Order.dll

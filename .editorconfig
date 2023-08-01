@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0435: 命名空间与导入类型冲突
+dotnet_diagnostic.CS0435.severity = warning
